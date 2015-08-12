@@ -1,6 +1,8 @@
 # Coupon Generator
 Automatically generate coupons for printing on A4 paper, tested on Google Chrome
 
+http://kahkhang.github.io/coupon-generator/
+
 ## Generating coupons
 ![Generate]
 (http://kahkhang.github.io/coupon-generator/demo/generate.png)
@@ -8,3 +10,5 @@ Automatically generate coupons for printing on A4 paper, tested on Google Chrome
 ## Print screen
 ![Print]
 (http://kahkhang.github.io/coupon-generator/demo/print.png)
+
+
